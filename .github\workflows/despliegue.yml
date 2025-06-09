@@ -1,4 +1,4 @@
-name: CI/CD Pipeline for HolaMundoMultilenguaje_2
+name: CI/CD Pipeline for holaMundoMultilenguaje_2
 on:
   push:
     branches:
